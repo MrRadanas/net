@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net", "WindowsFormsApplication3\net.csproj", "{84418668-FCE8-4B78-B6CC-B1CF48970719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84418668-FCE8-4B78-B6CC-B1CF48970719}.Debug|x64.ActiveCfg = Debug|x64
+		{84418668-FCE8-4B78-B6CC-B1CF48970719}.Debug|x64.Build.0 = Debug|x64
+		{84418668-FCE8-4B78-B6CC-B1CF48970719}.Debug|x86.ActiveCfg = Debug|x86
+		{84418668-FCE8-4B78-B6CC-B1CF48970719}.Debug|x86.Build.0 = Debug|x86
+		{84418668-FCE8-4B78-B6CC-B1CF48970719}.Release|x64.ActiveCfg = Release|x64
+		{84418668-FCE8-4B78-B6CC-B1CF48970719}.Release|x64.Build.0 = Release|x64
+		{84418668-FCE8-4B78-B6CC-B1CF48970719}.Release|x86.ActiveCfg = Release|x86
+		{84418668-FCE8-4B78-B6CC-B1CF48970719}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C68C628-1956-4C48-8009-D2C700173D4F}
+	EndGlobalSection
+EndGlobal
