@@ -8,7 +8,7 @@
     <ProjectGuid>{84418668-FCE8-4B78-B6CC-B1CF48970719}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <RootNamespace>Net</RootNamespace>
     <AssemblyName>Net</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
